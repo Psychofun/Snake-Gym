@@ -2,7 +2,7 @@
 Snake game in python, gym style
 
 
-
+![Snake Game Shorthest path solver](./assets/snake.gif)
 
 Based on [Seanbae](https://github.com/seanbae/gym-snake) and [Gsurma](https://github.com/gsurma/slitherin) repositories.
 
